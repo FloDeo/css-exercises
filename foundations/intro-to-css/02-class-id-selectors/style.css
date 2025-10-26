@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+p.odd {
+    background-color: #FF6F91;
+    font: Verdana, 'Dajavu Sans', sans-serif;
+}
+
+p.oddTwo {
+    font-size: 24px;
+}
+
+div#numberTwo {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+div#lastOne {
+    background-color: #90EE90;
+    font-size: 24px;
+    font-weight: bold;
+}
